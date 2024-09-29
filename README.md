@@ -1,10 +1,6 @@
 # App Created Subtitles 📸💬
 Gemini Captioner is a mobile app developed by [Your Name] using Google's Gemini API. This app automatically generates captions for your photos by analyzing their content with advanced AI techniques. Future updates will extend this functionality to videos as well, making it a powerful tool for creating multimedia descriptions.
 
-## 🎥 Demo Video
-
-![Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ## 📱 Features
 - 📷 AI Photo Captioning: Upload photos and get AI-generated captions automatically.
 - 🎥 Future Video Captioning: Coming soon! The app will generate captions for videos in a future release.
