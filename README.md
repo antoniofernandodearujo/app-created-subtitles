@@ -3,7 +3,7 @@ Gemini Captioner is a mobile app developed by [Your Name] using Google's Gemini 
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+![Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## 📱 Features
 - 📷 AI Photo Captioning: Upload photos and get AI-generated captions automatically.
