@@ -8,7 +8,7 @@ import ModalCaption from "../Modal/Modal";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import styles from "./styles";
 
-const API_KEY = 'AIzaSyAWKecSPu_jp2sb2pi9B5yKCuOj_ZSPM20';
+const API_KEY = 'YOUR_API_KEY';
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 type ButtonProps = {
